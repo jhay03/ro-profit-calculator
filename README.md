@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Description of the application
+This is Mini calculator, to calculate the profit on selling items / zenny into real money. This may help the user to calculate the profit easy. The user just need to put the details that he need and VIOLA, it will automatically compute based on his / her input.
 
 ## Getting Started
 
